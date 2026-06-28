@@ -1,0 +1,6 @@
+{
+  "name": "Birthroots IVF & Hospital",
+  "description": "Official portal for Dr. Shruthi Goli Birthroots IVF Infertility, Laparoscopy, Maternity and Pediatric Care Hospital, with online appointments and patient dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
